@@ -1,4 +1,4 @@
-# Supply Chain, Inventory & Logistics Performance Analytics
+# Supply Chain & Logistics Performance Analytics
 
 ##  Project Overview
 This project analyzes supply chain order performance across multiple warehouses to evaluate fulfillment efficiency, cancellation trends, and pending order risks.
