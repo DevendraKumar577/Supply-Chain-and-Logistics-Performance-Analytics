@@ -177,5 +177,3 @@ This dashboard helps stakeholders:
 - GitHub: https://github.com/DevendraKumar577
 
 ---
-
-## ⭐ If you found this project useful, consider giving it a Star!
